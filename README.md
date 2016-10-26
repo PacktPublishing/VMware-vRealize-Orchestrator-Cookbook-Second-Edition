@@ -3,13 +3,15 @@ By Packt
 
 
 
-This is the code repository for [VMware vRealize Orchestrator Cookbook Second Edition](https://www.packtpub.com/virtualization-and-cloud/vmware-vrealize-orchestrator-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786462787), published by [Packt Publishing](https://www.packtpub.com/). It contains all the required files to run the code.
+This is the code repository for [VMware vRealize Orchestrator Cookbook Second Edition](https://www.packtpub.com/virtualization-and-cloud/vmware-vrealize-orchestrator-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786462787), published by [Packt Publishing](https://www.packtpub.com/). All the example workflows that are mentioned in the book are present in the package.
 
 ##Who this book is for?
 This book addresses intermediate and advanced VMware enthusiast. You should have
 some know-how about Orchestrator. 
 
-###Software Requirements
+###Software and Hardware Requirements
+You can use this book with Orchestrator versions 5.0, 5.1, and 5.5 and with the renamed
+version, vRealize Orchestrator (5.5.2.x, 6.x, 7.x, and newer).
 
 |Name| Content| Virtual hardware|
 |----|--------|-----------------|
